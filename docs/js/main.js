@@ -1,0 +1,1 @@
+// document.write('<br><div id="jsvid">Javascript write some thing here....</div>');
